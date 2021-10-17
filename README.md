@@ -1,3 +1,4 @@
+<h2 style="color: rgb(53, 53, 255);">Estudante de Engenharia de Computação</h2>
 <div align="center" style="display: inline_block">
   <a href="https://github.com/rafaballerini">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Gabrielzg1&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
