@@ -1,4 +1,4 @@
-<h2>Estudante de Engenharia de Computação</h2>
+<h2 align ="center">Estudante de Engenharia de Computação</h2>
 <div align="center" style="display: inline_block">
   <a href="https://github.com/Gabrielzg1">
   <img height="180em" width="450em" src="https://github-readme-stats.vercel.app/api?username=Gabrielzg1&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
